@@ -1,0 +1,14 @@
+{
+    "ModTitle": "Daggerfall.Harmony",
+    "ModVersion": "2.4.2.1",
+    "ModAuthor": "Sin of Pride",
+    "ContactInfo": "sinofpridedev@gmail.com",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "A library to patch Daggerfall methods during runtime. This mod utilizes Lib.Harmony to ensure all mods in a player's mod list are on the latest Harmony version to minimize conflicts.",
+    "GUID": "b193f656-dfee-414f-a8d1-de2453368451",
+    "Files": [
+        "Assets/Game/Mods/Daggerfall.Harmony/Daggerfall.Harmony.dfmod.json",
+        "Assets/Game/Mods/Daggerfall.Harmony/0Harmony.dll.bytes",
+        "Assets/Game/Mods/Daggerfall.Harmony/Daggerfall.Harmony.dll.bytes"
+    ]
+}

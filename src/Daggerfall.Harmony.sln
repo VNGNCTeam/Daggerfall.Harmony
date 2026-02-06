@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daggerfall.Harmony", "Daggerfall.Harmony\Daggerfall.Harmony.csproj", "{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5958576A-D277-4419-A640-9D05524C28E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Beta_Debug|x64 = Beta_Debug|x64
+		Beta_Release|x64 = Beta_Release|x64
+		Stable_Debug|x64 = Stable_Debug|x64
+		Stable_Release|x64 = Stable_Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}.Beta_Debug|x64.ActiveCfg = Release|x64
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}.Beta_Debug|x64.Build.0 = Release|x64
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}.Beta_Release|x64.ActiveCfg = Beta_Release|x64
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}.Beta_Release|x64.Build.0 = Beta_Release|x64
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}.Stable_Debug|x64.ActiveCfg = Stable_Debug|x64
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}.Stable_Debug|x64.Build.0 = Stable_Debug|x64
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}.Stable_Release|x64.ActiveCfg = Stable_Release|x64
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED}.Stable_Release|x64.Build.0 = Stable_Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F7DF9CA-28B6-43DD-AD0D-12E916E8CEED} = {5958576A-D277-4419-A640-9D05524C28E8}
+		{5958576A-D277-4419-A640-9D05524C28E8} = {088AC302-5E01-4094-A7CB-6D3036D4CC62}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A927FDFB-039B-41B1-99EE-3FF0D22346AA}
+	EndGlobalSection
+EndGlobal
